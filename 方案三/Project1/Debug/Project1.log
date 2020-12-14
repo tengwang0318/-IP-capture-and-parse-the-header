@@ -1,0 +1,12 @@
+﻿  源.cpp
+H:\ip抓包期中最终版\高若彤\Project1\源.cpp(57,10): warning C4101: “mac_string”: 未引用的局部变量
+H:\ip抓包期中最终版\高若彤\Project1\源.cpp(105,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message : 参见“inet_ntoa”的声明
+H:\ip抓包期中最终版\高若彤\Project1\源.cpp(106,1): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+F:\Windows Kits\10\Include\10.0.18362.0\um\WinSock2.h(1849): message : 参见“inet_ntoa”的声明
+H:\ip抓包期中最终版\高若彤\Project1\源.cpp(81,8): warning C4101: “header_length”: 未引用的局部变量
+H:\ip抓包期中最终版\高若彤\Project1\源.cpp(153,1): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : 参见“scanf”的声明
+H:\ip抓包期中最终版\高若彤\Project1\源.cpp(176,1): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 参见“kbhit”的声明
+  Project1.vcxproj -> H:\ip抓包期中最终版\高若彤\Project1\Debug\Project1.exe

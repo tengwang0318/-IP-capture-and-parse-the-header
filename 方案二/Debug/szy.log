@@ -1,0 +1,18 @@
+﻿  capture.cpp
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(64,10): warning C4101: “checksum”: 未引用的局部变量
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(68,10): warning C4101: “tlen”: 未引用的局部变量
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(65,13): warning C4101: “saddr”: 未引用的局部变量
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(63,9): warning C4101: “tos”: 未引用的局部变量
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(67,9): warning C4101: “ttl”: 未引用的局部变量
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(66,13): warning C4101: “daddr”: 未引用的局部变量
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(69,10): warning C4101: “identification”: 未引用的局部变量
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(102,10): warning C4101: “mac_string”: 未引用的局部变量
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(244,1): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+F:\Windows Kits\10\Include\10.0.18362.0\ucrt\conio.h(459): message : 参见“kbhit”的声明
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(137,13): warning C4101: “ltime”: 未引用的局部变量
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(142,13): warning C4101: “ih”: 未引用的局部变量
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(136,22): warning C4101: “header”: 未引用的局部变量
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(139,7): warning C4101: “timestr”: 未引用的局部变量
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(135,6): warning C4101: “res”: 未引用的局部变量
+H:\ip抓包期中最终版\沈子怡+2018103384\capture.cpp(138,16): warning C4101: “pkt_data”: 未引用的局部变量
+  szy.vcxproj -> H:\ip抓包期中最终版\沈子怡+2018103384\Debug\szy.exe
